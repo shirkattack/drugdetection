@@ -1,0 +1,15 @@
+train:
+  cmd: python -m spacy run train
+  script:
+    - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/train.spacy
+      --paths.dev corpus/dev.spacy --gpu-id 0
+  deps:
+    - path: corpus/train.spacy
+      md5: 180d210cff80e7bf9e37107aa8c02f07
+    - path: corpus/dev.spacy
+      md5: c44f351b1326e59eae638d98e724fb33
+  outs:
+    - path: training/model-best
+      md5: ecea517ebcfb112ac828bdc7387271e1
+  spacy_version: 3.0.3
+  spacy_git_version: f4f46b617

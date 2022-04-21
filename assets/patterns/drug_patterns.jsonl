@@ -1,0 +1,201 @@
+{"label":"DRUG","pattern":[{"lower":"ecstasy tabs"}]}
+{"label":"DRUG","pattern":[{"lower":"black"}, {"lower":"tar"}, {"lower":"heroin"}]}
+{"label":"DRUG","pattern":[{"lower":"morphine"}]}
+{"label":"DRUG","pattern":[{"lower":"opiates"}]}
+{"label":"DRUG","pattern":[{"lower":"opium"}]}
+{"label":"DRUG","pattern":[{"lower":"benzodiazepine"}]}
+{"label":"DRUG","pattern":[{"lower":"opioids"}]}
+{"label":"DRUG","pattern":[{"lower":"codeine"}]}
+{"label":"DRUG","pattern":[{"lower":"hydrocodone"}]}
+{"label":"DRUG","pattern":[{"lower":"desomorphine"}]}
+{"label":"DRUG","pattern":[{"lower":"oxycodone"}]}
+{"label":"DRUG","pattern":[{"lower":"fentanyl"}]}
+{"label":"DRUG","pattern":[{"lower":"tramadol"}]}
+{"label":"DRUG","pattern":[{"lower":"methadone"}]}
+{"label":"DRUG","pattern":[{"lower":"pethidine"}]}
+{"label":"DRUG","pattern":[{"lower":"pentazocine"}]}
+{"label":"DRUG","pattern":[{"lower":"bezitramide"}]}
+{"label":"DRUG","pattern":[{"lower":"diphenoxylate"}]}
+{"label":"DRUG","pattern":[{"lower":"ketobemidone"}]}
+{"label":"DRUG","pattern":[{"lower":"phenoperidine"}]}
+{"label":"DRUG","pattern":[{"lower":"alfentanil"}]}
+{"label":"DRUG","pattern":[{"lower":"remifentanil"}]}
+{"label":"DRUG","pattern":[{"lower":"dipipanone"}]}
+{"label":"DRUG","pattern":[{"lower":"levorphanol"}]}
+{"label":"DRUG","pattern":[{"lower":"phenazocine"}]}
+{"label":"DRUG","pattern":[{"lower":"alphaprodine"}]}
+{"label":"DRUG","pattern":[{"lower":"anileridine"}]}
+{"label":"DRUG","pattern":[{"lower":"dextromoramide"}]}
+{"label":"DRUG","pattern":[{"lower":"dextropropoxyphene"}]}
+{"label":"DRUG","pattern":[{"lower":"buprenorphine"}]}
+{"label":"DRUG","pattern":[{"lower":"heroin"}]}
+{"label":"DRUG","pattern":[{"lower":"carfentanil"}]}
+{"label":"DRUG","pattern":[{"lower":"ocfentanil"}]}
+{"label":"DRUG","pattern":[{"lower":"furanylfentanyl"}]}
+{"label":"DRUG","pattern":[{"lower":"crack cocaine"}]}
+{"label":"DRUG","pattern":[{"lower":"tilidine"}]}
+{"label":"DRUG","pattern":[{"lower":"sufentanil"}]}
+{"label":"DRUG","pattern":[{"lower":"thebaine"}]}
+{"label":"DRUG","pattern":[{"lower":"synthetic"}, {"lower":"opioids"}]}
+{"label":"DRUG","pattern":[{"lower":"percocet"}]}
+{"label":"DRUG","pattern":[{"lower":"trimeperidine"}]}
+{"label":"DRUG","pattern":[{"lower":"tranquillizers"}]}
+{"label":"DRUG","pattern":[{"lower":"ghb"}]}
+{"label":"DRUG","pattern":[{"lower":"methaqualone"}]}
+{"label":"DRUG","pattern":[{"lower":"hydroxybutyrate"}]}
+{"label":"DRUG","pattern":[{"lower":"quaalude"}]}
+{"label":"DRUG","pattern":[{"lower":"mandrax"}]}
+{"label":"DRUG","pattern":[{"lower":"pregabalin"}]}
+{"label":"DRUG","pattern":[{"lower":"gabapentin"}]}
+{"label":"DRUG","pattern":[{"lower":"flunitrazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"nitrazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"clonazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"phenazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"barbiturates"}]}
+{"label":"DRUG","pattern":[{"lower":"coca"}, {"lower": "bush}]}
+{"label":"DRUG","pattern":[{"lower":"cocaine"}]}
+{"label":"DRUG","pattern":[{"lower":"benzoylecgonine"}]}
+{"label":"DRUG","pattern":[{"lower":"amphetamine"}]}
+{"label":"DRUG","pattern":[{"lower":"methamphetamine"}]}
+{"label":"DRUG","pattern":[{"lower":"crystal"}, {"lower":"meth"}]}
+{"label":"DRUG","pattern":[{"lower":"cathinones"}]}
+{"label":"DRUG","pattern":[{"lower":"captagon"}]}
+{"label":"DRUG","pattern":[{"lower":"mdma"}]}
+{"label":"DRUG","pattern":[{"lower":"mephedrone"}]}
+{"label":"DRUG","pattern":[{"lower":"welbutrin"}]}
+{"label":"DRUG","pattern":[{"lower":"oxazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"alfa"}, {"lower":"pvp"}]}
+{"label":"DRUG","pattern":[{"lower":"sativa"}]}
+{"label":"DRUG","pattern":[{"lower":"crystal"}, {"lower":"methamphetamine"}]}
+{"label":"DRUG","pattern":[{"lower":"pcp"}]}
+{"label":"DRUG","pattern":[{"lower":"pyrrolidinovalerophenone"}]}
+{"label":"DRUG","pattern":[{"lower":"zolpidem"}]}
+{"label":"DRUG","pattern":[{"lower":"tramadol"}]}
+{"label":"DRUG","pattern":[{"lower":"toluene"}]}
+{"label":"DRUG","pattern":[{"lower":"tetrahydrocannabinol"}]}
+{"label":"DRUG","pattern":[{"lower":"thc"}]}
+{"label":"DRUG","pattern":[{"lower":"tartaric"}, {"lower":"acid"}]}
+{"label":"DRUG","pattern":[{"lower":"synthetic"}, {"lower": "cannabinoids"}]}
+{"label":"DRUG","pattern":[{"lower":"sulphuric"}, {"lower":"acid"}]}
+{"label":"DRUG","pattern":[{"lower":"sodium"}, {"lower":"permanganate"}]}
+{"label":"DRUG","pattern":[{"lower":"sodium"}, {"lower":"hydroxide"}]}
+{"label":"DRUG","pattern":[{"lower":"caustic"}, {"lower":"soda"}]}
+{"label":"DRUG","pattern":[{"lower":"sodium"}, {"lower":"carbonate"}]}
+{"label":"DRUG","pattern":[{"lower":"sodium"}, {"lower":"bicarbonate"}]}
+{"label":"DRUG","pattern":[{"lower":"sodium"}, {"lower":"acetate"}]}
+{"label":"DRUG","pattern":[{"lower":"safrole"}]}
+{"label":"DRUG","pattern":[{"lower":"psilocybin"}]}
+{"label":"DRUG","pattern":[{"lower":"pseudoephedrine"}]}
+{"label":"DRUG","pattern":[{"lower":"promedol"}]}
+{"label":"DRUG","pattern":[{"lower":"pregabalin"}]}
+{"label":"DRUG","pattern":[{"lower":"precursors"}]}
+{"label":"DRUG","pattern":[{"lower":"potassium"}, {"lower":"permanganate"}]}
+{"label":"DRUG","pattern":[{"lower":"poppy"}, {"lower":"straw"}]}
+{"label":"DRUG","pattern":[{"lower":"poppy"}, {"lower":"seeds"}]}
+{"label":"DRUG","pattern":[{"lower":"poppy"}, {"lower":"plant"}]}
+{"label":"DRUG","pattern":[{"lower":"pmk"}, {"lower":"glycidate"}]}
+{"label":"DRUG","pattern":[{"lower":"piperazine"}]}
+{"label":"DRUG","pattern":[{"lower":"phenylpropanolamine"}]}
+{"label":"DRUG","pattern":[{"lower":"phenylacetylindole"}]}
+{"label":"DRUG","pattern":[{"lower":"phenylacetic"}]}
+{"label":"DRUG","pattern":[{"lower":"propanone"}]}
+{"label":"DRUG","pattern":[{"lower":"nitropropene"}]}
+{"label":"DRUG","pattern":[{"lower":"phenobarbital"}]}
+{"label":"DRUG","pattern":[{"lower":"phencyclidine"}]}
+{"label":"DRUG","pattern":[{"lower":"oxycodone"}]}
+{"label":"DRUG","pattern":[{"lower":"oxazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"opium"}]}
+{"label":"DRUG","pattern":[{"lower":"opioids"}]}
+{"label":"DRUG","pattern":[{"lower":"opiates"}]}
+{"label":"DRUG","pattern":[{"lower":"methylephedrone"}]}
+{"label":"DRUG","pattern":[{"lower":"nitroethane"}]}
+{"label":"DRUG","pattern":[{"lower":"nimetazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"nandrolone"}]}
+{"label":"DRUG","pattern":[{"lower":"morphine"}]}
+{"label":"DRUG","pattern":[{"lower":"methylone"}]}
+{"label":"DRUG","pattern":[{"lower":"methylamine"}]}
+{"label":"DRUG","pattern":[{"lower":"monomethylamine"}]}
+{"label":"DRUG","pattern":[{"lower":"methcathinone"}]}
+{"label":"DRUG","pattern":[{"lower":"ephedrone"}]}
+{"label":"DRUG","pattern":[{"lower":"methaqualone"}]}
+{"label":"DRUG","pattern":[{"lower":"methanol"}]}
+{"label":"DRUG","pattern":[{"lower":"methamphetamine"}]}
+{"label":"DRUG","pattern":[{"lower":"methadone"}]}
+{"label":"DRUG","pattern":[{"lower":"mephedrone"}]}
+{"label":"DRUG","pattern":[{"lower":"mdpv"}]}
+{"label":"DRUG","pattern":[{"lower":"mdp2p"}]}
+{"label":"DRUG","pattern":[{"lower":"mdea"}]}
+{"label":"DRUG","pattern":[{"lower":"mda"}]}
+{"label":"DRUG","pattern":[{"lower":"mcpp"}]}
+{"label":"DRUG","pattern":[{"lower":"marijuana"}]}
+{"label":"DRUG","pattern":[{"lower":"lsd"}]}
+{"label":"DRUG","pattern":[{"lower":"lorazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"kratom"}]}
+{"label":"DRUG","pattern":[{"lower":"khat"}]}
+{"label":"DRUG","pattern":[{"lower":"ketamine"}]}
+{"label":"DRUG","pattern":[{"lower":"hydrochloric"}, {"lower":"acid"}]}
+{"label":"DRUG","pattern":[{"lower":"heroin"}]}
+{"label":"DRUG","pattern":[{"lower":"hashish"}, {"lower":"resin"}]}
+{"label":"DRUG","pattern":[{"lower":"hallucinogens"}]}
+{"label":"DRUG","pattern":[{"lower":"gamma"}, {"lower":"butyrolactone"}]}
+{"label":"DRUG","pattern":[{"lower":"flunitrazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"fentanyl"}]}
+{"label":"DRUG","pattern":[{"lower":"fenethylline"}]}
+{"label":"DRUG","pattern":[{"lower":"ethyl"}, {"lower":"phenylacetate"}]}
+{"label":"DRUG","pattern":[{"lower":"ethyl"}, {"lower":"ether"}]}
+{"label":"DRUG","pattern":[{"lower":"ethyl"}, {"lower":"acetate"}]}
+{"label":"DRUG","pattern":[{"lower":"ephedrine"}]}
+{"label":"DRUG","pattern":[{"lower":"dmt"}]}
+{"label":"DRUG","pattern":[{"lower":"dimethyl"}, {"lower":"ether"}]}
+{"label":"DRUG","pattern":[{"lower":"diazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"desomorphine"}]}
+{"label":"DRUG","pattern":[{"lower":"crack"}, {"lower":"cocaine"}]}
+{"label":"DRUG","pattern":[{"lower":"codeine"}]}
+{"label":"DRUG","pattern":[{"lower":"cocaine"}, {"lower":"base"}]}
+{"label":"DRUG","pattern":[{"lower":"cocaine"}, {"lower":"salts"}]}
+{"label":"DRUG","pattern":[{"lower":"cocaine"}, {"lower":"hydrochloride"}]}
+{"label":"DRUG","pattern":[{"lower":"coca"}, {"lower":"seeds"}]}
+{"label":"DRUG","pattern":[{"lower":"coca"}, {"lower":"plant"}]}
+{"label":"DRUG","pattern":[{"lower":"coca"}, {"lower":"paste"}]}
+{"label":"DRUG","pattern":[{"lower":"coca"}, {"lower":"leaf"}]}
+{"label":"DRUG","pattern":[{"lower":"clonazepam"}]}
+{"label":"DRUG","pattern":[{"lower":"cathinone"}]}
+{"label":"DRUG","pattern":[{"lower":"carfentanil"}]}
+{"label":"DRUG","pattern":[{"lower":"captagon"}]}
+{"label":"DRUG","pattern":[{"lower":"cannabis"}, {"lower":"oil"}]}
+{"label":"DRUG","pattern":[{"lower":"cannabis"}, {"lower":"plant"}]}
+{"label":"DRUG","pattern":[{"lower":"cannabis"}, {"lower":"pollen"}]}
+{"label":"DRUG","pattern":[{"lower":"cannabis"}, {"lower":"seeds"}]}
+{"label":"DRUG","pattern":[{"lower":"calcium"}, {"lower":"oxide"}]}
+{"label":"DRUG","pattern":[{"lower":"calcium"}, {"lower":"carbonate"}]}
+{"label":"DRUG","pattern":[{"lower":"bzp"}]}
+{"label":"DRUG","pattern":[{"lower":"buprenorphine"}]}
+{"label":"DRUG","pattern":[{"lower":"subutex"}]}
+{"label":"DRUG","pattern":[{"lower":"brotizolam"}]}
+{"label":"DRUG","pattern":[{"lower":"benzyl"}, {"lower":"chloride"}]}
+{"label":"DRUG","pattern":[{"lower":"benzoylindole"}]}
+{"label":"DRUG","pattern":[{"lower":"benzodiazepines"}]}
+{"label":"DRUG","pattern":[{"lower":"barbiturates"}]}
+{"label":"DRUG","pattern":[{"lower":"ats"}]}
+{"label":"DRUG","pattern":[{"lower":"amphetamine"}]}
+{"label":"DRUG","pattern":[{"lower":"ammonium"}, {"lower":"nitrate"}]}
+{"label":"DRUG","pattern":[{"lower":"ammonium"}, {"lower":"chloride"}]}
+{"label":"DRUG","pattern":[{"lower":"ammonia"}]}
+{"label":"DRUG","pattern":[{"lower":"alprazolam"}]}
+{"label":"DRUG","pattern":[{"lower":"phenylacetoacetonitrile"}]}
+{"label":"DRUG","pattern":[{"lower":"apaan"}]}
+{"label":"DRUG","pattern":[{"lower":"adulterants"}]}
+{"label":"DRUG","pattern":[{"lower":"activated"}, {"lower":"carbon"}]}
+{"label":"DRUG","pattern":[{"lower":"acetylfentanyl"}]}
+{"label":"DRUG","pattern":[{"lower":"acetyl chloride"}]}
+{"label":"DRUG","pattern":[{"lower":"acetyl"}, {"lower":"chloride"}]}
+{"label":"DRUG","pattern":[{"lower":"acetone"}]}
+{"label":"DRUG","pattern":[{"lower":"acetic"}, {"lower":"anhydride"}]}
+{"label":"DRUG","pattern":[{"lower":"acetic"}, {"lower":"acid"}]}
+{"label":"DRUG","pattern":[{"lower":"methylfentanyl"}]}
+{"label":"DRUG","pattern":[{"lower":"hashish"}]}
+{"label":"DRUG","pattern":[{"lower":"hash"}]}
+{"label":"DRUG","pattern":[{"lower":"vicodin"}]}
+{"label":"DRUG","pattern":[{"lower":"bhang"}]}
+{"label":"DRUG","pattern":[{"lower":"shabu"}]}
+{"label":"DRUG","pattern":[{"lower":"syabu"}]}
